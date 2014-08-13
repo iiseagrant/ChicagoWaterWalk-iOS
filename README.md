@@ -1,7 +1,7 @@
-ChicagoWaterWalk-Android
+ChicagoWaterWalk-iOS
 ========================
 
-Source code for the Illinois-Indiana Sea Grant's Chicago Water Walk Android-based mobile application
+Source code for the Illinois-Indiana Sea Grant's Chicago Water Walk iOS-based mobile application
 
 License
 ------------
