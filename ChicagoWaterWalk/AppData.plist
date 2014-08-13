@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2014 The Illinois-Indiana Sea Grant
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ http://www.apache.org/licenses/LICENSE-2.0
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ -->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>About Count</key>
+	<integer>7</integer>
+	<key>Zoom</key>
+	<integer>12</integer>
+	<key>Coordinates</key>
+	<dict>
+		<key>Latitude</key>
+		<real>41.878483</real>
+		<key>Longitude</key>
+		<real>-87.61663299999999</real>
+	</dict>
+	<key>Routes</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>ROUTE_1</string>
+			<key>Zoom</key>
+			<integer>13</integer>
+			<key>Coordinates</key>
+			<dict>
+				<key>Latitude</key>
+				<real>41.891083</real>
+				<key>Longitude</key>
+				<real>-87.609533</real>
+			</dict>
+			<key>POIs</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_1_POI_1</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.891083</real>
+						<key>Longitude</key>
+						<real>-87.609533</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_1_POI_2</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.891117</real>
+						<key>Longitude</key>
+						<real>-87.6031</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_1_POI_3</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.89145</real>
+						<key>Longitude</key>
+						<real>-87.600533</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_1_POI_4</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.8932</real>
+						<key>Longitude</key>
+						<real>-87.612967</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ROUTE_2</string>
+			<key>Zoom</key>
+			<integer>13</integer>
+			<key>Coordinates</key>
+			<dict>
+				<key>Latitude</key>
+				<real>41.888067</real>
+				<key>Longitude</key>
+				<real>-87.617617</real>
+			</dict>
+			<key>POIs</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_2_POI_1</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.88903871</real>
+						<key>Longitude</key>
+						<real>-87.62449479999999</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_2_POI_2</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.88859103</real>
+						<key>Longitude</key>
+						<real>-87.62050522</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_2_POI_3</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.888067</real>
+						<key>Longitude</key>
+						<real>-87.617617</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_2_POI_4</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.887933</real>
+						<key>Longitude</key>
+						<real>-87.61286699999999</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ROUTE_3</string>
+			<key>Zoom</key>
+			<integer>13</integer>
+			<key>Coordinates</key>
+			<dict>
+				<key>Latitude</key>
+				<real>41.878483</real>
+				<key>Longitude</key>
+				<real>-87.61663299999999</real>
+			</dict>
+			<key>POIs</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_3_POI_1</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.8847</real>
+						<key>Longitude</key>
+						<real>-87.612933</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_3_POI_2</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.8825</real>
+						<key>Longitude</key>
+						<real>-87.61565</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_3_POI_3</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.878483</real>
+						<key>Longitude</key>
+						<real>-87.61663299999999</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_3_POI_4</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.875983</real>
+						<key>Longitude</key>
+						<real>-87.616433</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_3_POI_5</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.873283</real>
+						<key>Longitude</key>
+						<real>-87.616417</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_3_POI_6</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.87125</real>
+						<key>Longitude</key>
+						<real>-87.616383</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>4</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ROUTE_4</string>
+			<key>Zoom</key>
+			<integer>13</integer>
+			<key>Coordinates</key>
+			<dict>
+				<key>Latitude</key>
+				<real>41.868217</real>
+				<key>Longitude</key>
+				<real>-87.614983</real>
+			</dict>
+			<key>POIs</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_4_POI_1</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.8688</real>
+						<key>Longitude</key>
+						<real>-87.61624999999999</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_4_POI_2</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.868217</real>
+						<key>Longitude</key>
+						<real>-87.614983</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>4</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_4_POI_3</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.8668</real>
+						<key>Longitude</key>
+						<real>-87.607767</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>4</integer>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>ROUTE_4_POI_4</string>
+					<key>Coordinates</key>
+					<dict>
+						<key>Latitude</key>
+						<real>41.86525</real>
+						<key>Longitude</key>
+						<real>-87.607167</real>
+					</dict>
+					<key>Sub Topic Count</key>
+					<integer>3</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

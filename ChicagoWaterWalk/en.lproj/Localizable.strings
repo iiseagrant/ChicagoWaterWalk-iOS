@@ -1,0 +1,213 @@
+/*
+ * Copyright (C) 2014 The Illinois-Indiana Sea Grant
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/*
+ About Screen
+ */
+"ABOUT_1" = "Who Are We?";
+"ABOUT_2" = "Website";
+"ABOUT_3" = "Email Us";
+"ABOUT_4" = "Facebook";
+"ABOUT_5" = "Twitter";
+"ABOUT_6" = "Credits";
+"ABOUT_7" = "Copyright";
+
+/*
+ Route 1: Navy Pier
+ */
+
+"ROUTE_1" = "Navy Pier";
+
+"ROUTE_1_POI_1" = "At Dock Street";
+"ROUTE_1_POI_1_SUBTOPIC_1" = "Let’s get started";
+"ROUTE_1_POI_1_SUBTOPIC_2" = "Why a sea wall?";
+"ROUTE_1_POI_1_SUBTOPIC_3" = "Habitats lost";
+"ROUTE_1_POI_1_SUBTOPIC_1_IMAGE" = "Navy Pier Dock Street entry way";
+"ROUTE_1_POI_1_SUBTOPIC_2_IMAGE" = "Water showing a seawall build of looserocks with a tree line behind it";
+"ROUTE_1_POI_1_SUBTOPIC_3_IMAGE" = "A pond surrounded by grass and tall weeds";
+
+"ROUTE_1_POI_2" = "Along the Pier";
+"ROUTE_1_POI_2_SUBTOPIC_1" = "First, some background";
+"ROUTE_1_POI_2_SUBTOPIC_2" = "The river runs backwards";
+"ROUTE_1_POI_2_SUBTOPIC_3" = "But when it rains ...";
+"ROUTE_1_POI_2_SUBTOPIC_1_IMAGE" = "A river tour boat on the river, passing by a control tower";
+"ROUTE_1_POI_2_SUBTOPIC_2_IMAGE" = "Aerial view of the Chicago skyline, piers and harbor, from lake Michigan";
+"ROUTE_1_POI_2_SUBTOPIC_3_IMAGE" = "Large drainage pipe surrounded by churning white water";
+
+"ROUTE_1_POI_3" = "Viewing Deck";
+"ROUTE_1_POI_3_SUBTOPIC_1" = "Standing here ...";
+"ROUTE_1_POI_3_SUBTOPIC_2" = "Drinking water—why worry?";
+"ROUTE_1_POI_3_SUBTOPIC_3" = "The tale of shipwrecks";
+"ROUTE_1_POI_3_SUBTOPIC_1_IMAGE" = "Lighthouse";
+"ROUTE_1_POI_3_SUBTOPIC_2_IMAGE" = "Pier in the foreground,  water processing facility in the background, surrounded by water";
+"ROUTE_1_POI_3_SUBTOPIC_3_IMAGE" = "Underwater shot of a sunken boat";
+
+"ROUTE_1_POI_4" = "Ohio Street Beach";
+"ROUTE_1_POI_4_SUBTOPIC_1" = "Did you know?";
+"ROUTE_1_POI_4_SUBTOPIC_2" = "Is it safe to swim?";
+"ROUTE_1_POI_4_SUBTOPIC_3" = "Buoys swim in data";
+"ROUTE_1_POI_4_SUBTOPIC_1_IMAGE" = "Downtown skyline, as viewed from the beach area";
+"ROUTE_1_POI_4_SUBTOPIC_2_IMAGE" = "A public notice sign regarding swimming conditions in the lake";
+"ROUTE_1_POI_4_SUBTOPIC_3_IMAGE" = "A yellow buoy with a data collection antennae mounted on top, surrounded by water";
+
+/*
+ Route 2: Chicago River
+ */
+
+"ROUTE_2" = "Chicago River";
+
+"ROUTE_2_POI_1" = "Michigan Avenue Bridge";
+"ROUTE_2_POI_1_SUBTOPIC_1" = "Let’s get started";
+"ROUTE_2_POI_1_SUBTOPIC_2" = "Bridges, Chicago-style";
+"ROUTE_2_POI_1_SUBTOPIC_3" = "Canal connections";
+"ROUTE_2_POI_1_SUBTOPIC_1_IMAGE" = "The Chicago river as viewed through the safety rail from the Michigan Ave bridge";
+"ROUTE_2_POI_1_SUBTOPIC_2_IMAGE" = "Raised draw bridge over the river";
+"ROUTE_2_POI_1_SUBTOPIC_3_IMAGE" = "Iron bridge across top of image and a docked barge as the main focal point";
+
+"ROUTE_2_POI_2" = "Columbus Drive Bridge";
+"ROUTE_2_POI_2_SUBTOPIC_1" = "Did you know?";
+"ROUTE_2_POI_2_SUBTOPIC_2" = "Big rains are a big deal";
+"ROUTE_2_POI_2_SUBTOPIC_3" = "The Deep Tunnel solution";
+"ROUTE_2_POI_2_SUBTOPIC_1_IMAGE" = "A large drainage grate in the foreground with an iron bridge over the Chicago river in the background";
+"ROUTE_2_POI_2_SUBTOPIC_2_IMAGE" = "Large drainage pipe dumping rain water into a major spillway";
+"ROUTE_2_POI_2_SUBTOPIC_3_IMAGE" = "Person standing in a very large drainage tunnel";
+
+"ROUTE_2_POI_3" = "Centennial Fountain";
+"ROUTE_2_POI_3_SUBTOPIC_1" = "First, some background";
+"ROUTE_2_POI_3_SUBTOPIC_2" = "One of the busiest harbors";
+"ROUTE_2_POI_3_SUBTOPIC_3" = "One of the biggest threats";
+"ROUTE_2_POI_3_SUBTOPIC_1_IMAGE" = "Centennial fountain spraying water high into the air with large buildings in the background";
+"ROUTE_2_POI_3_SUBTOPIC_2_IMAGE" = "Black and white photo from the 19th century, showing large masted ship and steamers in the harbor";
+"ROUTE_2_POI_3_SUBTOPIC_3_IMAGE" = "Asian carp, breaching the water and fully airborne";
+
+"ROUTE_2_POI_4" = "Chicago River Mouth";
+"ROUTE_2_POI_4_SUBTOPIC_1" = "The big picture";
+"ROUTE_2_POI_4_SUBTOPIC_2" = "The river runs backwards";
+"ROUTE_2_POI_4_SUBTOPIC_3" = "And the locks are key";
+"ROUTE_2_POI_4_SUBTOPIC_1_IMAGE" = "Large observation facility and a water taxi at the harbor lock on the Chicago river";
+"ROUTE_2_POI_4_SUBTOPIC_2_IMAGE" = "Black and white photo of a large crane, working on canal construction";
+"ROUTE_2_POI_4_SUBTOPIC_3_IMAGE" = "Chicago harbor lock in the foreground, city skyline in the background";
+
+/*
+ Route 3: Lakefront Marinas
+ */
+
+"ROUTE_3" = "Lakefront Marinas";
+
+"ROUTE_3_POI_1" = "DuSable Harbor";
+"ROUTE_3_POI_1_SUBTOPIC_1" = "Let’s get started";
+"ROUTE_3_POI_1_SUBTOPIC_2" = "Get aboard clean boating";
+"ROUTE_3_POI_1_SUBTOPIC_1_IMAGE" = "Docked sailboats";
+"ROUTE_3_POI_1_SUBTOPIC_2_IMAGE" = "Sailboats, anchored in the marina, with sails down";
+
+"ROUTE_3_POI_2" = "Chicago Yacht Club";
+"ROUTE_3_POI_2_SUBTOPIC_1" = "Did you know?";
+"ROUTE_3_POI_2_SUBTOPIC_2" = "The sea wall";
+"ROUTE_3_POI_2_SUBTOPIC_3" = "Habitats lost";
+"ROUTE_3_POI_2_SUBTOPIC_1_IMAGE" = "One sailboat, anchored in the foreground, with the Chicago yacht club building in the background";
+"ROUTE_3_POI_2_SUBTOPIC_2_IMAGE" = "Elevated view of sea wall across the lake and skyline in background";
+"ROUTE_3_POI_2_SUBTOPIC_3_IMAGE" = "Sandy beach in foreground with vegetation, water in background";
+
+"ROUTE_3_POI_3" = "Monroe Harbor";
+"ROUTE_3_POI_3_SUBTOPIC_1" = "First, some background";
+"ROUTE_3_POI_3_SUBTOPIC_2" = "The lakefront 2.0";
+"ROUTE_3_POI_3_SUBTOPIC_3" = "Tipping towards trouble";
+"ROUTE_3_POI_3_SUBTOPIC_1_IMAGE" = "Person exercising in foreground, anchored sailboats in the harbor in the background";
+"ROUTE_3_POI_3_SUBTOPIC_2_IMAGE" = "Black and white of lake and industrial buildings in background";
+"ROUTE_3_POI_3_SUBTOPIC_3_IMAGE" = "Beach with shellfish in foreground, water in background";
+
+"ROUTE_3_POI_4" = "Buckingham Fountain";
+"ROUTE_3_POI_4_SUBTOPIC_1" = "Did you know?";
+"ROUTE_3_POI_4_SUBTOPIC_2" = "Water for a thirsty region";
+"ROUTE_3_POI_4_SUBTOPIC_3" = "Using water wisely";
+"ROUTE_3_POI_4_SUBTOPIC_1_IMAGE" = "Segue riders in front of Buckingham fountain, with cityscape in background";
+"ROUTE_3_POI_4_SUBTOPIC_2_IMAGE" = "Large, distant ship, surrounded by water";
+"ROUTE_3_POI_4_SUBTOPIC_3_IMAGE" = "Sprinklers watering brown grass";
+
+"ROUTE_3_POI_5" = "Balbo Drive";
+"ROUTE_3_POI_5_SUBTOPIC_1" = "Standing here ...";
+"ROUTE_3_POI_5_SUBTOPIC_2" = "TREEmendous solution";
+"ROUTE_3_POI_5_SUBTOPIC_3" = "For when it rains ...";
+"ROUTE_3_POI_5_SUBTOPIC_1_IMAGE" = "Fountain and greenery, with buildings in the background";
+"ROUTE_3_POI_5_SUBTOPIC_2_IMAGE" = "Trees shading a pedestrian walkwayd";
+"ROUTE_3_POI_5_SUBTOPIC_3_IMAGE" = "Traffic in the foreground, skyline in the background";
+
+"ROUTE_3_POI_6" = "Along Lakeshore Path";
+"ROUTE_3_POI_6_SUBTOPIC_1" = "The big picture";
+"ROUTE_3_POI_6_SUBTOPIC_2" = "The ABCs of PCBs, mercury";
+"ROUTE_3_POI_6_SUBTOPIC_3" = "Prescription for pollution";
+"ROUTE_3_POI_6_SUBTOPIC_4" = "From your lawn to the lake";
+"ROUTE_3_POI_6_SUBTOPIC_1_IMAGE" = "Black and white of industrial buildings in background and water in foreground";
+"ROUTE_3_POI_6_SUBTOPIC_2_IMAGE" = "Large crane and other construction equipment";
+"ROUTE_3_POI_6_SUBTOPIC_3_IMAGE" = "Multi-colored pills";
+"ROUTE_3_POI_6_SUBTOPIC_4_IMAGE" = "Closeup of grass and soil";
+
+/*
+ Route 4: Museum Campus
+ */
+
+"ROUTE_4" = "Museum Campus";
+
+"ROUTE_4_POI_1" = "Museum Campus";
+"ROUTE_4_POI_1_SUBTOPIC_1" = "Let’s get started";
+"ROUTE_4_POI_1_SUBTOPIC_2" = "The breakwater story";
+"ROUTE_4_POI_1_SUBTOPIC_3" = "Why so low?";
+"ROUTE_4_POI_1_SUBTOPIC_1_IMAGE" = "Shedd aquarium";
+"ROUTE_4_POI_1_SUBTOPIC_2_IMAGE" = "Aerial view of breakwater with cityscape in the background";
+"ROUTE_4_POI_1_SUBTOPIC_3_IMAGE" = "Tugboat pulling a larger ship";
+
+"ROUTE_4_POI_2" = "Shedd Aquarium";
+"ROUTE_4_POI_2_SUBTOPIC_1" = "Standing here ...";
+"ROUTE_4_POI_2_SUBTOPIC_2" = "A rocky home life";
+"ROUTE_4_POI_2_SUBTOPIC_3" = "It’s a fish eat fish world";
+"ROUTE_4_POI_2_SUBTOPIC_4" = "Then add aquatic invaders";
+"ROUTE_4_POI_2_SUBTOPIC_1_IMAGE" = "Shedd Aquarium";
+"ROUTE_4_POI_2_SUBTOPIC_2_IMAGE" = "Person sitting on pier as water taxi passes by in background";
+"ROUTE_4_POI_2_SUBTOPIC_3_IMAGE" = "A fish";
+"ROUTE_4_POI_2_SUBTOPIC_4_IMAGE" = "Underwater vegetation";
+
+"ROUTE_4_POI_3" = "Adler Planetarium";
+"ROUTE_4_POI_3_SUBTOPIC_1" = "The big picture";
+"ROUTE_4_POI_3_SUBTOPIC_2" = "Downpours and droughts ...";
+"ROUTE_4_POI_3_SUBTOPIC_3" = "... Disrupt the lake";
+"ROUTE_4_POI_3_SUBTOPIC_4" = "Buoys have the deets";
+"ROUTE_4_POI_3_SUBTOPIC_1_IMAGE" = "Adler planetarium";
+"ROUTE_4_POI_3_SUBTOPIC_2_IMAGE" = "Road closed sign in foreground, flooded road in background";
+"ROUTE_4_POI_3_SUBTOPIC_3_IMAGE" = "Black and white of ice covered lake";
+"ROUTE_4_POI_3_SUBTOPIC_4_IMAGE" = "A yellow buoy, surrounded by water, with a monitoring device on top of it";
+
+"ROUTE_4_POI_4" = "Northerly Island";
+"ROUTE_4_POI_4_SUBTOPIC_1" = "First, some background";
+"ROUTE_4_POI_4_SUBTOPIC_2" = "Getting back to nature";
+"ROUTE_4_POI_4_SUBTOPIC_3" = "The Garden City";
+"ROUTE_4_POI_4_SUBTOPIC_1_IMAGE" = "Black and white aerial view of Northerly Island";
+"ROUTE_4_POI_4_SUBTOPIC_2_IMAGE" = "Colorized aerial view of Northerly Island";
+"ROUTE_4_POI_4_SUBTOPIC_3_IMAGE" = "Greenery and wildflowers in foreground, cityscape in background";
+
+/*
+ Historical Photos
+ */
+"HISTORICAL_1" = "Historic shoreline";
+"HISTORICAL_2" = "A busy harbor";
+"HISTORICAL_3" = "South Side industry";
+"HISTORICAL_4" = "The Illinois Central Railroad";
+"HISTORICAL_5" = "The Illinois and Michigan Canal";
+"HISTORICAL_6" = "Chicago waterways diversion";
+"HISTORICAL_7" = "The polluted river";
+"HISTORICAL_8" = "Michigan Avenue at Grant Park";
+"HISTORICAL_9" = "Northerly Island";
+"HISTORICAL_10" = "Navy Pier";
+"HISTORICAL_11" = "Reversing the river";
